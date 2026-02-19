@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Settings -->
+  <DefaultPreg_ModName>Default Pregnancy Approach</DefaultPreg_ModName>
+  <DefaultPreg_Settings>Select the desired default pregnancy approach for new lovers</DefaultPreg_Settings>
+  <DefaultPreg_Note>The setting above will only affect new lovers; existing lovers' approach will not change</DefaultPreg_Note>
+
+</LanguageData>
