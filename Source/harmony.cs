@@ -50,8 +50,8 @@ namespace DefaultPreg
 
             public static int GetCurrentSetting()
             {
-                Log.Message($"Default preg approach is: {DefaultPregSettings.DefaultApproach}");
-                Log.Message($"Returning {(int)DefaultPregSettings.DefaultApproach}");
+                //Log.Message($"Default preg approach is: {DefaultPregSettings.DefaultApproach}");
+                //Log.Message($"Returning {(int)DefaultPregSettings.DefaultApproach}");
 
                 return (int)DefaultPregSettings.DefaultApproach;
             }

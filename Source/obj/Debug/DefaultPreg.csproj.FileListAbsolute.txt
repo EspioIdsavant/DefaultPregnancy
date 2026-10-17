@@ -1,5 +1,11 @@
 D:\Games\Steam\steamapps\common\RimWorld\Mods\DefaultPregnancy\Source\obj\Debug\DefaultPreg.csproj.AssemblyReference.cache
 D:\Games\Steam\steamapps\common\RimWorld\Mods\DefaultPregnancy\Source\obj\Debug\DefaultPreg.csproj.CoreCompileInputs.cache
-D:\Games\Steam\steamapps\common\RimWorld\Mods\DefaultPregnancy\Source\obj\Debug\DefaultP.A960AB32.Up2Date
 D:\Games\Steam\steamapps\common\RimWorld\Mods\DefaultPregnancy\1.6\Assemblies\DefaultPreg.dll
 D:\Games\Steam\steamapps\common\RimWorld\Mods\DefaultPregnancy\Source\obj\Debug\DefaultPreg.dll
+D:\Games\Steam\steamapps\common\RimWorld\Mods\DefaultPregnancy\1.7\Assemblies\DefaultPreg.dll
+D:\Games\Steam\steamapps\common\RimWorld\Mods\DefaultPregnancy\1.7\Assemblies\DefaultPreg.pdb
+D:\Games\Steam\steamapps\common\RimWorld\Mods\DefaultPregnancy\Source\obj\Debug\DefaultPreg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\Steam\steamapps\common\RimWorld\Mods\DefaultPregnancy\Source\obj\Debug\DefaultPreg.sourcelink.json
+D:\Games\Steam\steamapps\common\RimWorld\Mods\DefaultPregnancy\Source\obj\Debug\refint\DefaultPreg.dll
+D:\Games\Steam\steamapps\common\RimWorld\Mods\DefaultPregnancy\Source\obj\Debug\DefaultPreg.pdb
+D:\Games\Steam\steamapps\common\RimWorld\Mods\DefaultPregnancy\Source\obj\Debug\ref\DefaultPreg.dll
